@@ -2,8 +2,8 @@
 Ecov SRE hiring repository
 
 1. Private ips
-Find and display all private ips contained in the ips file in the private_ips folder
 
+Find and display all private ips contained in the ips file in the private_ips folder
 
 2. Hello world
 
