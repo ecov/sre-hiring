@@ -4,7 +4,6 @@ Ecov SRE hiring repository
 1. Private ips
 Find and display all private ips contained in the ips file in the private_ips folder
 
-
 2. Hello world
 
 We would love to deploy our brand new hello world app in our kubernetes cluster
