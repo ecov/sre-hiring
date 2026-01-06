@@ -14,3 +14,4 @@ For this exercise, we will use:
 * This docker image: [Hello World](https://hub.docker.com/r/strm/helloworld-http/)
 * The container uses the port 80
 * Use `hello-word.ecov.io` DNS to expose our app to the world.
+
